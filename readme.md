@@ -7,13 +7,20 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - http://www.99lime.com/uikit/
 - https://github.com/unlight/GridBox
 
+#### Templates
+- https://github.com/raptorjs/marko
+
 #### Gulp plugins
 - https://github.com/dominictarr/stream-combiner
 - https://github.com/unlight/gulp-cssimport
+- https://github.com/stevelacy/gulp-bump
+- https://github.com/jackfranklin/gulp-load-plugins
+- https://github.com/jeremyruppel/gulp-pathmap
 
 #### Streams
 - https://github.com/schnittstabil/stream-from-array
 - https://github.com/dominictarr/stream-combiner
+- https://github.com/thedufer/JSONStreamify
 
 #### Console
 - https://github.com/substack/text-table
