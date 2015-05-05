@@ -7,6 +7,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - http://www.99lime.com/uikit/
 - https://github.com/unlight/GridBox
 
+
+#### Architecture
+- https://github.com/OrKoN/npm-link-shared
+
 #### Templates
 - https://github.com/raptorjs/marko
 
@@ -21,6 +25,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/schnittstabil/stream-from-array
 - https://github.com/dominictarr/stream-combiner
 - https://github.com/thedufer/JSONStreamify
+- https://github.com/teambition/merge2
+
+#### Flow control
+- https://github.com/getify/asynquence
 
 #### Console
 - https://github.com/substack/text-table
