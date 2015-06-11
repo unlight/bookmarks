@@ -5,6 +5,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 #### UI Frameworks
 - http://semantic-ui.com/
 - http://www.99lime.com/uikit/
+- http://getuikit.com/
 - https://github.com/unlight/GridBox
 
 
@@ -20,6 +21,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/stevelacy/gulp-bump
 - https://github.com/jackfranklin/gulp-load-plugins
 - https://github.com/jeremyruppel/gulp-pathmap
+- https://github.com/hparra/gulp-rename
+- https://github.com/TrySound/gulp-chokidar
+- https://github.com/teambition/gulp-sequence
+- https://github.com/robrich/gulp-exec
+- https://github.com/hughsk/gulp-duration
+- https://github.com/middleware-io/gulp-node-debug
+- https://github.com/power-assert-js/gulp-espower
+- https://github.com/hoffi/gulp-msbuild
+- https://github.com/troch/gulp-memory-cache
+- https://github.com/ahaurw01/gulp-remember
+
 
 #### Streams
 - https://github.com/schnittstabil/stream-from-array
