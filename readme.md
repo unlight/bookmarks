@@ -32,8 +32,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/troch/gulp-memory-cache
 - https://github.com/ahaurw01/gulp-remember
 
-
 #### Streams
+- https://github.com/dominictarr/from
 - https://github.com/schnittstabil/stream-from-array
 - https://github.com/dominictarr/stream-combiner
 - https://github.com/thedufer/JSONStreamify
