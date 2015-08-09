@@ -31,6 +31,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/hoffi/gulp-msbuild
 - https://github.com/troch/gulp-memory-cache
 - https://github.com/ahaurw01/gulp-remember
+- https://github.com/futurechan/gulp-asset-transform
 
 #### Streams
 - https://github.com/dominictarr/from
@@ -54,3 +55,4 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 #### Other
 - https://github.com/dieulot/instantclick
+- https://github.com/alidavut/locus
