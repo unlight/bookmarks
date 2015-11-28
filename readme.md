@@ -8,7 +8,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - http://getuikit.com/
 - https://github.com/unlight/GridBox
 
-
 #### Architecture
 - https://github.com/OrKoN/npm-link-shared
 
@@ -32,6 +31,18 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/troch/gulp-memory-cache
 - https://github.com/ahaurw01/gulp-remember
 - https://github.com/futurechan/gulp-asset-transform
+
+#### Browserify
+- https://github.com/substack/factor-bundle
+- https://github.com/babel/babelify
+- https://github.com/jmm/pathmodify
+- https://github.com/omsmith/browserify-ngannotate
+- https://github.com/parro-it/folderify
+
+#### PostCSS
+- https://github.com/postcss/postcss-nested
+- https://github.com/postcss/autoprefixer
+- https://github.com/postcss/postcss-use
 
 #### Streams
 - https://github.com/dominictarr/from
