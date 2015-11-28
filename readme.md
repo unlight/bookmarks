@@ -30,6 +30,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/hoffi/gulp-msbuild
 - https://github.com/troch/gulp-memory-cache
 - https://github.com/ahaurw01/gulp-remember
+- https://github.com/HerringtonDarkholme/gulp-progeny
 - https://github.com/futurechan/gulp-asset-transform
 
 #### Browserify
