@@ -33,17 +33,41 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/HerringtonDarkholme/gulp-progeny
 - https://github.com/futurechan/gulp-asset-transform
 
+#### Sigh
+- https://github.com/unlight/log-gulp-sigh
+- https://github.com/unlight/sigh-ava
+
+  ##### Working plugins
+  - https://github.com/klaascuvelier/gulp-copy
+  - https://www.npmjs.com/package/gulp-debug
+  - https://www.npmjs.com/package/gulp-ng-annotate
+  - https://www.npmjs.com/package/gulp-bump
+  - https://www.npmjs.com/package/gulp-notify
+  - https://www.npmjs.com/package/gulp-benchmark
+  - https://www.npmjs.com/package/gulp-less (extension stays as less)
+
+  ##### NOT working plugins
+  - https://www.npmjs.com/package/gulp-rename
+  - https://www.npmjs.com/package/gulp-duration
+  - https://www.npmjs.com/package/gulp-size
+  - https://www.npmjs.com/package/gulp-eslint (sigh cannot adapt exported properties from module)
+  - https://www.npmjs.com/package/gulp-browatchify (fails silently)
+  - https://www.npmjs.com/package/gulp-typescript
+  - https://github.com/jrop/gulp-put
+
 #### Browserify
 - https://github.com/substack/factor-bundle
 - https://github.com/babel/babelify
 - https://github.com/jmm/pathmodify
-- https://github.com/omsmith/browserify-ngannotate
+- https://github.com/bholloway/browserify-nginject
 - https://github.com/parro-it/folderify
+- https://github.com/BigstickCarpet/sourcemapify
 
 #### PostCSS
 - https://github.com/postcss/postcss-nested
 - https://github.com/postcss/autoprefixer
 - https://github.com/postcss/postcss-use
+- https://github.com/lamo2k123/postcss-less-vars
 
 #### Streams
 - https://github.com/dominictarr/from
