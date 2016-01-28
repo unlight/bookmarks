@@ -55,6 +55,16 @@ A continuously expanded list of framework/libraries and tools I used/want to use
   - https://www.npmjs.com/package/gulp-typescript
   - https://github.com/jrop/gulp-put
 
+#### NativeScript
+* NativeScript/apps
+
+  ##### Angular2
+  * qsf-angular-nativescript
+
+  ##### NativeScript Plugins
+
+  ##### Native API access
+
 #### Browserify
 - https://github.com/substack/factor-bundle
 - https://github.com/babel/babelify
