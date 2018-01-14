@@ -4,6 +4,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 #### Light frontend frameworks
 - https://github.com/hyperapp/hyperapp
+- https://github.com/developit/preact
 
 #### UI Frameworks
 - http://semantic-ui.com/
