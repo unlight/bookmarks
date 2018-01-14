@@ -1,24 +1,25 @@
 Bookmarks
 =========
-A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
+A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web.
+Mostly Javascript stuff.
 
-#### Light frontend frameworks
+### Light frontend frameworks
 - https://github.com/hyperapp/hyperapp
 - https://github.com/developit/preact
 
-#### UI Frameworks
+### UI Frameworks
 - http://semantic-ui.com/
 - http://www.99lime.com/uikit/
 - http://getuikit.com/
 - https://github.com/unlight/GridBox
 
-#### Architecture
+### Architecture
 - https://github.com/OrKoN/npm-link-shared
 
-#### Templates
+### Templates
 - https://github.com/raptorjs/marko
 
-#### Gulp plugins
+### Gulp plugins
 - https://github.com/dominictarr/stream-combiner
 - https://github.com/unlight/gulp-cssimport
 - https://github.com/stevelacy/gulp-bump
@@ -37,39 +38,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/HerringtonDarkholme/gulp-progeny
 - https://github.com/futurechan/gulp-asset-transform
 
-#### Sigh
-- https://github.com/unlight/log-gulp-sigh
-- https://github.com/unlight/sigh-ava
-
-  ##### Working plugins
-  - https://github.com/klaascuvelier/gulp-copy
-  - https://www.npmjs.com/package/gulp-debug
-  - https://www.npmjs.com/package/gulp-ng-annotate
-  - https://www.npmjs.com/package/gulp-bump
-  - https://www.npmjs.com/package/gulp-notify
-  - https://www.npmjs.com/package/gulp-benchmark
-  - https://www.npmjs.com/package/gulp-less (extension stays as less)
-
-  ##### NOT working plugins
-  - https://www.npmjs.com/package/gulp-rename
-  - https://www.npmjs.com/package/gulp-duration
-  - https://www.npmjs.com/package/gulp-size
-  - https://www.npmjs.com/package/gulp-eslint (sigh cannot adapt exported properties from module)
-  - https://www.npmjs.com/package/gulp-browatchify (fails silently)
-  - https://www.npmjs.com/package/gulp-typescript
-  - https://github.com/jrop/gulp-put
-
-#### NativeScript
+### NativeScript
 * NativeScript/apps
+* Angular2:qsf-angular-nativescript
+* NativeScript Plugins
+* Native API access
 
-  ##### Angular2
-  * qsf-angular-nativescript
-
-  ##### NativeScript Plugins
-
-  ##### Native API access
-
-#### Browserify
+### Browserify
 - https://github.com/substack/factor-bundle
 - https://github.com/babel/babelify
 - https://github.com/jmm/pathmodify
@@ -77,32 +52,32 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - https://github.com/parro-it/folderify
 - https://github.com/BigstickCarpet/sourcemapify
 
-#### PostCSS
+### PostCSS
 - https://github.com/postcss/postcss-nested
 - https://github.com/postcss/autoprefixer
 - https://github.com/postcss/postcss-use
 - https://github.com/lamo2k123/postcss-less-vars
 
-#### Streams
+### Streams
 - https://github.com/dominictarr/from
 - https://github.com/schnittstabil/stream-from-array
 - https://github.com/dominictarr/stream-combiner
 - https://github.com/thedufer/JSONStreamify
 - https://github.com/teambition/merge2
 
-#### Flow control
+### Flow control
 - https://github.com/getify/asynquence
 
-#### Console
+### Console
 - https://github.com/substack/text-table
 
-#### ES6
+### ES6
 - https://github.com/hemanth/paws-on-es6
 
-#### Polyfills
+### Polyfills
 - https://github.com/Financial-Times/polyfill-service
 - https://github.com/sindresorhus/object-assign
 
-#### Other
+### Other
 - https://github.com/dieulot/instantclick
 - https://github.com/alidavut/locus
