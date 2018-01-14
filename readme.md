@@ -2,6 +2,9 @@ Bookmarks
 =========
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
+#### Light frontend frameworks
+- https://github.com/hyperapp/hyperapp
+
 #### UI Frameworks
 - http://semantic-ui.com/
 - http://www.99lime.com/uikit/
