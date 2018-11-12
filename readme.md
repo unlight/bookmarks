@@ -6,6 +6,7 @@ Mostly Javascript stuff.
 ### Light frontend frameworks
 - https://github.com/hyperapp/hyperapp
 - https://github.com/developit/preact
+- https://github.com/orby-js/core
 
 ### UI Frameworks
 - http://semantic-ui.com/
