@@ -1,7 +1,11 @@
-Bookmarks
-=========
+# Bookmarks
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web.
 Mostly Javascript stuff.
+
+### WebComponents
+* https://github.com/matthewp - Guy who writes components right
+* https://github.com/matthewp/inline-confirmation
+* https://github.com/matthewp/fly-out
 
 ### Light frontend frameworks
 - https://github.com/hyperapp/hyperapp
