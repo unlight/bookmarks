@@ -11,6 +11,7 @@ Mostly Javascript stuff.
 - https://github.com/hyperapp/hyperapp
 - https://github.com/developit/preact
 - https://github.com/orby-js/core
+- https://github.com/danielmascena/calque
 
 ### UI Frameworks
 - http://semantic-ui.com/
