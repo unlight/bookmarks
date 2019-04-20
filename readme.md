@@ -6,6 +6,7 @@ Mostly Javascript stuff.
 * https://github.com/matthewp - Guy who writes components right
 * https://github.com/matthewp/inline-confirmation
 * https://github.com/matthewp/fly-out
+* https://github.com/github/auto-complete-element
 
 ### Light frontend frameworks
 - https://github.com/hyperapp/hyperapp
