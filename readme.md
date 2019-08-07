@@ -7,6 +7,7 @@ Framework/libraries and tools I used/want to use when building things on the web
 
 ### Docker/Kubernetes Helpers
 * https://github.com/hairyhenderson/gomplate
+* https://github.com/docker-slim/docker-slim
 
 ### React
 * https://github.com/zerobias/effector
