@@ -1,6 +1,15 @@
 # Bookmarks
-A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web.
-Mostly Javascript stuff.
+Framework/libraries and tools I used/want to use when building things on the web.
+
+### NodeJS
+* https://github.com/koajs/koa
+* https://github.com/mozilla/node-convict
+
+### Docker/Kubernetes Helpers
+* https://github.com/hairyhenderson/gomplate
+
+### React
+* https://github.com/zerobias/effector
 
 ### WebComponents
 * https://github.com/matthewp - Guy who writes components right
