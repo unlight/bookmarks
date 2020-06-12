@@ -12,6 +12,10 @@ Framework/libraries and tools I used/want to use when building things on the web
 ### React
 * https://github.com/zerobias/effector
 
+### Backend Generation Tools
+* https://github.com/danielrearden/sqlmancer
+* https://github.com/prisma/prisma
+
 ### WebComponents
 * https://github.com/matthewp - Guy who writes components right
 * https://github.com/matthewp/inline-confirmation
