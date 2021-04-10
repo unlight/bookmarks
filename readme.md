@@ -1,5 +1,15 @@
 # Bookmarks
-Framework/libraries and tools I used/want to use when building things on the web.
+Tools I want to use when building things on the web.
+
+### 2021
+* https://github.com/unlight/awesome-stars
+* https://github.com/browserslist/browserslist
+* https://github.com/demike/TsUML2
+* https://github.com/unlight/nx-workspace
+* https://github.com/unlight/react-typescript-vite-app
+* https://github.com/unlight/nestjs-graphql-prisma-realworld-example-app
+* https://github.com/unlight/nest-typescript-starter
+
 
 ### NodeJS
 * https://github.com/koajs/koa
