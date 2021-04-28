@@ -9,7 +9,7 @@ Tools I want to use when building things on the web.
 * https://github.com/unlight/react-typescript-vite-app
 * https://github.com/unlight/nestjs-graphql-prisma-realworld-example-app
 * https://github.com/unlight/nest-typescript-starter
-
+* https://github.com/Sairyss/domain-driven-hexagon
 
 ### NodeJS
 * https://github.com/koajs/koa
