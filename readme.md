@@ -11,6 +11,9 @@ Tools I want to use when building things on the web.
 * https://github.com/unlight/nest-typescript-starter
 * https://github.com/Sairyss/domain-driven-hexagon
 * https://github.com/antfu/purge-icons
+* https://gist.github.com/unlight/68a69ba19c06512f18f254ff702a9e38 - frontend-architecture-layers
+* https://gist.github.com/unlight/0b50949c0fc7fcc3164ffa1716acae32 - clean-architecture
+* https://github.com/stalniy/casl
 
 ### NodeJS
 * https://github.com/koajs/koa
