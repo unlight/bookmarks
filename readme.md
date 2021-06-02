@@ -35,6 +35,7 @@ Tools I want to use when building things on the web.
 * https://github.com/matthewp/inline-confirmation
 * https://github.com/matthewp/fly-out
 * https://github.com/github/auto-complete-element
+* https://github.com/mits-gossau/event-driven-web-components-realworld-example-app - another example + TS typing in JS
 
 ### Light frontend frameworks
 - https://github.com/hyperapp/hyperapp
