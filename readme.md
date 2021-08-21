@@ -14,6 +14,16 @@ Tools I want to use when building things on the web.
 * https://gist.github.com/unlight/68a69ba19c06512f18f254ff702a9e38 - frontend-architecture-layers
 * https://gist.github.com/unlight/0b50949c0fc7fcc3164ffa1716acae32 - clean-architecture
 * https://github.com/stalniy/casl
+* https://github.com/wmertens/jsurl2
+* https://github.com/sniptt-official/monads
+* https://github.com/aulasoftwarelibre/nestjs-eventstore
+
+### Testing
+- https://github.com/skovy/cooky-cutter
+
+### Errors
+- https://github.com/IonicaBizau/err
+- https://github.com/peerigon/erroz
 
 ### NodeJS
 * https://github.com/koajs/koa
@@ -50,8 +60,9 @@ Tools I want to use when building things on the web.
 - http://getuikit.com/
 - https://github.com/unlight/GridBox
 
-### Auth 
+### Auth/Permissions
 - https://github.com/onury/accesscontrol
+- https://github.com/stalniy/casl
 
 ### Architecture
 - https://github.com/OrKoN/npm-link-shared
@@ -121,3 +132,4 @@ Tools I want to use when building things on the web.
 ### Other
 - https://github.com/dieulot/instantclick
 - https://github.com/alidavut/locus
+
