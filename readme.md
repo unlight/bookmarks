@@ -18,12 +18,20 @@ Tools I want to use when building things on the web.
 * https://github.com/sniptt-official/monads
 * https://github.com/aulasoftwarelibre/nestjs-eventstore
 
+#### Mock API
+- https://github.com/mswjs/msw
+- https://github.com/miragejs/miragejs
+
+#### ORM
+- https://github.com/prisma/prisma
+
 ### Testing
 - https://github.com/skovy/cooky-cutter
 
 ### Errors
 - https://github.com/IonicaBizau/err
 - https://github.com/peerigon/erroz
+- https://gist.github.com/unlight/6d54daf6c891e1d12697f577132b590d
 
 ### NodeJS
 * https://github.com/koajs/koa
