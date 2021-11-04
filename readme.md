@@ -18,6 +18,12 @@ Tools I want to use when building things on the web.
 * https://github.com/sniptt-official/monads
 * https://github.com/aulasoftwarelibre/nestjs-eventstore
 
+### NestJS Ecosystem
+- https://github.com/unlight/nestolog
+- https://github.com/unlight/prisma-nestjs-graphql
+- https://github.com/unlight/nestjs-cqrx
+- https://github.com/unlight/nx-workspace
+
 #### Mock API
 - https://github.com/mswjs/msw
 - https://github.com/miragejs/miragejs
