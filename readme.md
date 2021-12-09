@@ -17,6 +17,7 @@ Tools I want to use when building things on the web.
 * https://github.com/wmertens/jsurl2
 * https://github.com/sniptt-official/monads
 * https://github.com/aulasoftwarelibre/nestjs-eventstore
+* https://github.com/tannerlinsley/react-location
 
 ### NestJS Ecosystem
 - https://github.com/unlight/nestolog
